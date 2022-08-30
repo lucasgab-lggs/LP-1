@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -pedantic CMakeFiles/conversor.dir/main.cpp.o CMakeFiles/conversor.dir/conv.cpp.o -o conversor 

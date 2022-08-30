@@ -1,0 +1,3 @@
+/home/lucas.gomes.125/Área de Trabalho/LP-1/A1-2/Exemplos/CMakeFiles/conversor.dir
+/home/lucas.gomes.125/Área de Trabalho/LP-1/A1-2/Exemplos/CMakeFiles/edit_cache.dir
+/home/lucas.gomes.125/Área de Trabalho/LP-1/A1-2/Exemplos/CMakeFiles/rebuild_cache.dir
