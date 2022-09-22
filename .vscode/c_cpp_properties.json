@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/A7/include"
+                "${workspaceFolder}/A7/include",
+                "${workspaceFolder}/A8-1/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
