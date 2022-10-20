@@ -18,7 +18,8 @@
         "streambuf": "cpp",
         "system_error": "cpp",
         "tuple": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "cstdlib": "cpp"
     },
     "cmake.configureOnOpen": false
 }
